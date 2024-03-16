@@ -12,4 +12,10 @@ Luego, instalamos **Jupyter Notebook**:
 conda install notebook
 ```
 
+Si queremos usar **Jupyter Notebook**, simplemente debemos ejecutar en la terminal el siguiente comando:
+
+
+```
+jupyter notebook
+```
 
